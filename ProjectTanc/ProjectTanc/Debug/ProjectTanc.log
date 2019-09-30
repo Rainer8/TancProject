@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\programe\poo\projecttanc\projecttanc\source.cpp(180): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\programe\poo\projecttanc\projecttanc\source.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\programe\poo\projecttanc\projecttanc\source.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+  ProjectTanc.vcxproj -> D:\Programe\POO\ProjectTanc\Debug\ProjectTanc.exe
